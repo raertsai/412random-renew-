@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\412\412class\412class\bin\Debug\412class.exe.config
+C:\Users\USER\Desktop\412\412class\412class\bin\Debug\412class.exe
+C:\Users\USER\Desktop\412\412class\412class\bin\Debug\412class.pdb
+C:\Users\USER\Desktop\412\412class\412class\obj\Debug\412class.exe
+C:\Users\USER\Desktop\412\412class\412class\obj\Debug\412class.pdb
+C:\Users\USER\Desktop\412\412class\412class\obj\Debug\412class.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\program\412\412class\412class\bin\Debug\412class.exe.config
+C:\Users\USER\Desktop\program\412\412class\412class\obj\Debug\412class.exe
+C:\Users\USER\Desktop\program\412\412class\412class\obj\Debug\412class.pdb
